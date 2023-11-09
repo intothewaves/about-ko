@@ -633,6 +633,9 @@ footer.on .inner a img {
 }
 
 @media screen and (max-width : 768px) {
+	.visual video{
+		top: 50%;
+	}
 	.visual .sect-title {
 		font-size: 22px;
 	}
